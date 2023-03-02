@@ -1,0 +1,5 @@
+com/mycompany/questionuploader/QuestionDAO.class
+com/mycompany/questionuploader/Question.class
+module-info.class
+com/mycompany/questionuploader/App.class
+com/mycompany/questionuploader/PrimaryController.class
